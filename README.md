@@ -11,15 +11,16 @@ A living record of learning and results by [@JaydenHarrod](https://twitter.com/j
 - [ ] Configure `react-router`
 - [ ] Portfolio content
 - [ ] Portfolio page
-- [ ] Explore React Downshift (possible Digifind integration?)
+- [ ] Explore React Downshift (possible search integration?)
 - [ ] JWT server-side session data (compatibility with Redux)
 - [ ] Design sketching; "tooltip"  notificaiton for when data was last crawled
-- [ ] Write down best practice naming conventions in modern Front-End web applications
-- [ ] Re-organise React components (re-usable vs context specific)
-- [ ] Refactor Redux PR to be forced client side for now due to server-side rendering limitation. 
+- [ ] Write down best practice naming conventions for modern Front-End web applications
+- [ ] Audit UI components (re-usable vs context specific) to begin design system
+- [ ] Refactor Redux PR to be forced client side for now due to server-side rendering limitation
 
 ## Explored ✨
-- WIP
+- CSS Animation (new hobby maybe?!)
+- Thinking about latency in browsers. Maybe make a quiz page that shows different transition speeds. 16ms, etc.
 
 ### Notes To Self ✍
 Read "Creative Strategy And The Business Of Design"
