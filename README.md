@@ -9,17 +9,17 @@ A living record of learning and results by [@JaydenHarrod](https://twitter.com/j
 
 ## Created ⭐
 - [x] Configure `react-router`
-- [ ] Portfolio content
 - [ ] Portfolio page
 - [ ] Explore React Downshift (possible search integration?)
 - [ ] Write down best practice naming conventions for modern Front-End web applications
 - [x] Refactor Redux PR to be forced client side for now due to server-side rendering limitation
-- [x] Empty states from date range
+- [x] Empty states and loading state implementations
 
 ## Explored ✨
 - CSS Animation (new hobby maybe?!)
 - Thinking about latency in browsers. Maybe make a quiz page that shows different transition speeds. 16ms, etc.
 - React Router integration
+- [9 states of design](https://medium.com/swlh/the-nine-states-of-design-5bfe9b3d6d85)
 
 ### Notes To Self ✍
 Read "Creative Strategy And The Business Of Design"
