@@ -13,8 +13,8 @@ A living record of learning and results by [@JaydenHarrod](https://twitter.com/j
 - [ ] Portfolio page
 - [ ] Explore React Downshift (possible search integration?)
 - [ ] Write down best practice naming conventions for modern Front-End web applications
-- [ ] Audit UI components (re-usable vs context specific) to begin design system
 - [x] Refactor Redux PR to be forced client side for now due to server-side rendering limitation
+- [x] Empty states from date range
 
 ## Explored ✨
 - CSS Animation (new hobby maybe?!)
