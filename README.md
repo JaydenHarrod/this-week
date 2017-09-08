@@ -10,7 +10,6 @@ A living record of learning and results by [@JaydenHarrod](https://twitter.com/j
 ## Created ⭐
 - [x] Configure `react-router`
 - [ ] Portfolio page
-- [ ] Explore React Downshift (possible search integration?)
 - [ ] Write down best practice naming conventions for modern Front-End web applications
 - [x] Refactor Redux PR to be forced client side for now due to server-side rendering limitation
 - [x] Empty states and loading state implementations
@@ -23,3 +22,5 @@ A living record of learning and results by [@JaydenHarrod](https://twitter.com/j
 
 ### Notes To Self ✍
 Read "Creative Strategy And The Business Of Design"
+Explore React Downshift (possible search integration?)
+
