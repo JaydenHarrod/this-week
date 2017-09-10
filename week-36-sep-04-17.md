@@ -6,7 +6,10 @@
 - [ ] Portfolio page
 - [ ] Write down best practice naming conventions for modern Front-End web applications
 - [x] Refactor Redux PR to be forced client side for now due to server-side rendering limitation
-- [x] Empty states and loading state implementations
+- [x] Fixed Percentage Indicators
+- [x] Fixed conflicting tooltip styles
+- [x] Addressed frontend empty state implementation
+- [x] Won another freelance client
 
 ## Explored ✨
 - CSS Animation (new hobby maybe?!)
