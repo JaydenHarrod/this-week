@@ -12,12 +12,14 @@ A living record of learning and results by [@JaydenHarrod](https://twitter.com/j
 - [ ] Portfolio page
 - [ ] Write down best practice naming conventions for modern Front-End web applications
 - [ ] Begin creating loading skeletons for the web app
-- [ ] Integrate Redux into the loading skeletons
-- [ ] Finish pre-production for video shoot
+- [ ] Integrate the UI states into Redux
+- [x] Implement loading, error, empty states in paid table
+- [x] Finish pre-production for video shoot
 - [ ] Film the video shoot!
 
 ## Explored ✨
-
+[UI states](http://scotthurff.com/posts/why-your-user-interface-is-awkward-youre-ignoring-the-ui-stack)
+[Promises](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Promise)
 
 ### Notes To Self ✍
 Read "Creative Strategy And The Business Of Design"
