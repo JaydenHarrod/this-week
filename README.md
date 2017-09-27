@@ -7,7 +7,7 @@ A living record of learning and results by [@JaydenHarrod](https://twitter.com/j
 * [Week 37 - September 11th, 2017](https://github.com/JaydenHarrod/this-week/blob/master/week-37-sep-11-17.md)
 * [Week 38 - September 19th, 2017](https://github.com/JaydenHarrod/this-week/blob/master/week-38-sep-19-17.md)
 
-# Week 38 - September 19th, 2017
+# Week 39 - September 25th, 2017
 **Outcome** - Accomplish this weeks work with a focus on quality. Produce some fantastic results!
 
 ## Created ⭐
